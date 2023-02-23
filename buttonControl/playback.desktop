@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Playback
+Comment=This is a playback application
+Exec=  python /home/pi/playback.py
+StartupNotify=false
+Terminal=true
+Hidden=false
